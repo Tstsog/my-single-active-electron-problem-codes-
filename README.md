@@ -4,7 +4,7 @@
 Author: Tsogbayar Tsednee (PhD) Contact: tsog215@gmail.com
 
 # Introduction:
-The Matlab codes computes the time-independent Schrodinger equation with single active electron potential.
+The Matlab codes solves the time-independent Schrodinger equation with single active electron potential, using pseudospectral method.
 
 # Requirement:
 Any version of Matlab
